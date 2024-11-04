@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/Cirque-Du-Trash/ip_task.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Cirque-Du-Trash/ip_task.git/static/js/main.d4224337.chunk.js",
-    "main.js.map": "/Cirque-Du-Trash/ip_task.git/static/js/main.d4224337.chunk.js.map",
-    "runtime~main.js": "/Cirque-Du-Trash/ip_task.git/static/js/runtime~main.441ac969.js",
-    "runtime~main.js.map": "/Cirque-Du-Trash/ip_task.git/static/js/runtime~main.441ac969.js.map",
-    "static/js/2.ca150098.chunk.js": "/Cirque-Du-Trash/ip_task.git/static/js/2.ca150098.chunk.js",
-    "static/js/2.ca150098.chunk.js.map": "/Cirque-Du-Trash/ip_task.git/static/js/2.ca150098.chunk.js.map",
-    "static/js/3.1b3c587a.chunk.js": "/Cirque-Du-Trash/ip_task.git/static/js/3.1b3c587a.chunk.js",
-    "static/js/3.1b3c587a.chunk.js.map": "/Cirque-Du-Trash/ip_task.git/static/js/3.1b3c587a.chunk.js.map",
-    "index.html": "/Cirque-Du-Trash/ip_task.git/index.html",
-    "precache-manifest.190cddb8fee6fd090f29f5bce98365b2.js": "/Cirque-Du-Trash/ip_task.git/precache-manifest.190cddb8fee6fd090f29f5bce98365b2.js",
-    "service-worker.js": "/Cirque-Du-Trash/ip_task.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Cirque-Du-Trash/ip_task.git/static/css/main.5ecd60fb.chunk.css.map"
-  }
+    "main.css": "/ip_task/static/css/main.e6c13ad2.css",
+    "main.js": "/ip_task/static/js/main.cf56d70a.js",
+    "static/js/453.e5bd735c.chunk.js": "/ip_task/static/js/453.e5bd735c.chunk.js",
+    "index.html": "/ip_task/index.html",
+    "main.e6c13ad2.css.map": "/ip_task/static/css/main.e6c13ad2.css.map",
+    "main.cf56d70a.js.map": "/ip_task/static/js/main.cf56d70a.js.map",
+    "453.e5bd735c.chunk.js.map": "/ip_task/static/js/453.e5bd735c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cf56d70a.js"
+  ]
 }
